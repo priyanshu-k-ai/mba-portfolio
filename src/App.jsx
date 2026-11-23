@@ -18,7 +18,7 @@ import {
 } from "lucide-react";
 
 import "./App.css";
-import "./CertificateBook.css";
+import "./certificateBook.css";
 
 /* SOCIAL ICONS */
 
