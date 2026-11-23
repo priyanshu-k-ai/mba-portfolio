@@ -1,0 +1,135 @@
+[
+  {
+    "title": "First Aid Day Award",
+    "issuer": "R.K. College of Pharmacy",
+    "date": "Date not clearly visible",
+    "type": "image",
+    "file": "/certificates/images/first-aid-day-award.jpeg"
+  },
+  {
+    "title": "Chess Competition: 1st Position",
+    "issuer": "Technosavvys Education Technology",
+    "date": "Teacher's Day 2025",
+    "type": "image",
+    "file": "/certificates/images/chess-first-position.jpeg"
+  },
+  {
+    "title": "Data Analytics Certificate",
+    "issuer": "Technosavvys Education Technology",
+    "date": "25 April 2025",
+    "type": "image",
+    "file": "/certificates/images/data-analytics-certificate.jpeg"
+  },
+  {
+    "title": "Diploma in Computer Application (DCA)",
+    "issuer": "NCMC Education Centre",
+    "date": "August 2019 to January 2020",
+    "type": "image",
+    "file": "/certificates/images/dca-certificate.jpeg"
+  },
+  {
+    "title": "Event Coordinator: Certificate of Recognition",
+    "issuer": "Grihani",
+    "date": "Date not visible",
+    "type": "image",
+    "file": "/certificates/images/event-coordinator-recognition.jpeg"
+  },
+  {
+    "title": "TechnoNxt Hackathon 2025: Certificate of Achievement",
+    "issuer": "Technosavvys Education Technology",
+    "date": "2025",
+    "type": "image",
+    "file": "/certificates/images/technonxt-hackathon-2025.jpeg"
+  },
+  {
+    "title": "Guest Lecture: Recent Advancements in Pharmacy Education",
+    "issuer": "United Institute of Pharmacy",
+    "date": "16 December 2023",
+    "type": "image",
+    "file": "/certificates/images/guest-lecture-participation.jpeg"
+  },
+  {
+    "title": "International Conference: Certificate of Appreciation",
+    "issuer": "United Institute of Pharmacy",
+    "date": "19-20 October 2024",
+    "type": "image",
+    "file": "/certificates/images/international-conference-appreciation.jpeg"
+  },
+  {
+    "title": "30 Days Power BI Micro Course",
+    "issuer": "SkillCourse",
+    "date": "3 October 2026",
+    "type": "image",
+    "file": "/certificates/images/power-bi-30-day-micro-course.png"
+  },
+  {
+    "title": "AI in Spreadsheets",
+    "issuer": "Ernst & Young Associates LLP",
+    "date": "4 November 2026",
+    "type": "pdf",
+    "file": "/certificates/pdfs/ey-ai-in-spreadsheets.pdf"
+  },
+  {
+    "title": "Design Thinking & UX/UI Fundamentals",
+    "issuer": "Ernst & Young Associates LLP",
+    "date": "5 November 2026",
+    "type": "pdf",
+    "file": "/certificates/pdfs/ey-design-thinking-ux-ui-fundamentals.pdf"
+  },
+  {
+    "title": "AI for Productivity",
+    "issuer": "Ernst & Young Associates LLP",
+    "date": "16 September 2026",
+    "type": "pdf",
+    "file": "/certificates/pdfs/ey-ai-for-productivity.pdf"
+  },
+  {
+    "title": "AI in Creativity",
+    "issuer": "Ernst & Young Associates LLP",
+    "date": "4 November 2026",
+    "type": "pdf",
+    "file": "/certificates/pdfs/ey-ai-in-creativity.pdf"
+  },
+  {
+    "title": "AI Literacy Essentials",
+    "issuer": "Ernst & Young Associates LLP",
+    "date": "16 September 2026",
+    "type": "pdf",
+    "file": "/certificates/pdfs/ey-ai-literacy-essentials.pdf"
+  },
+  {
+    "title": "Prompt Engineering for Study and Work",
+    "issuer": "Ernst & Young Associates LLP",
+    "date": "10 October 2026",
+    "type": "pdf",
+    "file": "/certificates/pdfs/ey-prompt-engineering-study-work.pdf"
+  },
+  {
+    "title": "Information & Media Literacy",
+    "issuer": "Ernst & Young Associates LLP",
+    "date": "6 November 2026",
+    "type": "pdf",
+    "file": "/certificates/pdfs/ey-information-media-literacy.pdf"
+  },
+  {
+    "title": "Microsoft Excel Fundamentals with Distinction",
+    "issuer": "Science of Apps",
+    "date": "2 November 2026",
+    "type": "pdf",
+    "file": "/certificates/pdfs/microsoft-excel-fundamentals-with-distinction.pdf"
+  },
+  {
+    "title": "Supply Chain Management Fundamentals with Distinction",
+    "issuer": "Science of Apps",
+    "date": "2 November 2026",
+    "type": "pdf",
+    "file": "/certificates/pdfs/supply-chain-management-fundamentals-with-distinction.pdf"
+  },
+  {
+    "title": "Supply Chain Basics for Everyone",
+    "issuer": "LinkedIn Learning",
+    "date": "4 November 2026",
+    "type": "pdf",
+    "file": "/certificates/pdfs/linkedin-learning-supply-chain-basics.pdf"
+  }
+]
